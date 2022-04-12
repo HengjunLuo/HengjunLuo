@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HengjunLuo
-- 🌱 Software enginnering student at Schulich School of Engineering, University of calgary.
+- 🌱 Software engineering student at Schulich School of Engineering, University of Calgary.
 - 📫 PLease contact me by hengjunluo@gmail.com
 
 
