@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HengjunLuo
-- 🌱 Software engineering student at Schulich School of Engineering, University of Calgary.
-- 📫 PLease contact me by hengjunluo@gmail.com
+- 🌱 Education: BS in Software engineering at Schulich School of Engineering, University of Calgary.
+- Actively looking for a job in IT industry.
+- 📫 Please contact me by hengjunluo@gmail.com
 
 
